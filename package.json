@@ -1,0 +1,1 @@
+{"name":"dben-group-redesign","private":true,"type":"module","scripts":{"build":"node build.cjs","preview":"node preview.cjs","check":"node check.cjs"},"devDependencies":{"cheerio":"1.2.0"}}
