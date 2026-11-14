@@ -1,1 +1,1 @@
-{"name":"dben-group-redesign","private":true,"type":"module","scripts":{"build":"node build.cjs","preview":"node preview.cjs","check":"node check.cjs"},"devDependencies":{"cheerio":"1.2.0"}}
+{"name":"dben-group-redesign","private":true,"type":"module","engines":{"node":"22.x"},"scripts":{"build":"node build.cjs","build:vercel":"node build.cjs && node build-vercel.cjs","preview":"node preview.cjs","check":"node check.cjs","check:vercel":"node check-vercel.cjs"},"devDependencies":{"cheerio":"1.2.0"}}

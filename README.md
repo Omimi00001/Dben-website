@@ -8,7 +8,13 @@ Use Node 22 or later. Run `npm install`, `npm run build`, `npm run check`, then 
 
 `build.cjs` renders each original public URL. `data.json` contains the audited source content; `assets/` contains optimized original images. `source-audit/` contains redacted source snapshots and a URL/feature inventory for comparison. No private account content is available in these snapshots.
 
-## Integrations
+## Vercel deployment
+
+`vercel.json` selects the Other preset and runs `npm run build:vercel`. This emits Vercel Build Output API v3 with an explicit Node.js 22 handler. The handler imports the generated server Worker, preserving the existing page HTML, route handlers, forms, redirects and assets. It never imports the browser-only `app.js`. Run `npm run check:vercel` after building to verify cold-start, page responses, assets, favicon, redirects and form validation through the actual generated Node handler. The original `npm run build` / Sites Worker output remains available.
+
+The original Vercel deployment auto-selected root `app.js` as its server entry point. Production logs showed `ReferenceError: matchMedia is not defined` during Node module loading, causing both `/` and `/favicon.ico` to return `FUNCTION_INVOCATION_FAILED` before any route could run. Do not remove browser APIs or guard away frontend initialization to address this: the server must use the generated server entry instead.
+
+## Existing integrations
 
 The enquiry and newsletter endpoints establish a fresh session with the existing DBEN website and forward allowed fields to its existing handlers. They never store submissions locally, never return an upstream session cookie to visitors, and only confirm success after an explicit `error:false` response from DBEN. Browser-native validation, server validation, same-origin checks, a honeypot for enquiries, and best-effort per-isolate throttling are included. The original forms, phone, email and WhatsApp remain available if DBEN changes or restricts its upstream service.
 
