@@ -1,0 +1,20 @@
+{
+  "missing": [],
+  "broken": [],
+  "assets": [],
+  "consolidatedLabels": [
+    {
+      "path": "/dben-services",
+      "text": "Book a Free Consultation with us"
+    },
+    {
+      "path": "/about-us",
+      "text": "VISION STATEMENT:"
+    },
+    {
+      "path": "/about-us",
+      "text": "MISSION STATEMENT:"
+    }
+  ],
+  "notes": "Labels consolidated; unique information retained. URL, asset and 81 listing-section checks passed."
+}

@@ -1,0 +1,355 @@
+{
+  "assets": {
+    "https://www.dbengroup.com/storage/house-4-410x270.webp": {
+      "path": "/media/0d95e69a26e4be.webp",
+      "type": "image/webp",
+      "size": 16124
+    },
+    "https://www.dbengroup.com/storage/house-1-410x270.webp": {
+      "path": "/media/65a0bebfb24844.webp",
+      "type": "image/webp",
+      "size": 15700
+    },
+    "https://www.dbengroup.com/storage/logo2.jpg": {
+      "path": "/media/f49bef8d01e425.webp",
+      "type": "image/webp",
+      "size": 2790
+    },
+    "https://www.dbengroup.com/storage/house33-410x270.webp": {
+      "path": "/media/5ad8b7266d05dd.webp",
+      "type": "image/webp",
+      "size": 22860
+    },
+    "https://www.dbengroup.com/storage/general/newsletter-image.jpg": {
+      "path": "/media/6237835c69998d.webp",
+      "type": "image/webp",
+      "size": 90784
+    },
+    "https://www.dbengroup.com/storage/home-banner-2.jpg": {
+      "path": "/media/34f7f41c4f96d3.webp",
+      "type": "image/webp",
+      "size": 165656
+    },
+    "https://www.dbengroup.com/themes/flex-home/images/area.svg": {
+      "path": "/media/832905ca71e492.svg",
+      "type": "image/svg+xml",
+      "size": 356
+    },
+    "https://www.dbengroup.com/themes/flex-home/images/media-count.svg": {
+      "path": "/media/ea5d98ab84c7ed.svg",
+      "type": "image/svg+xml",
+      "size": 693
+    },
+    "https://www.dbengroup.com/storage/45fe7dd1-ed75-4a47-918a-e55a8af35cda-410x270.jpeg": {
+      "path": "/media/f6cc98a5386133.webp",
+      "type": "image/webp",
+      "size": 16090
+    },
+    "https://www.dbengroup.com/storage/house-6-410x270.webp": {
+      "path": "/media/6d1cc52fd43c2d.webp",
+      "type": "image/webp",
+      "size": 14070
+    },
+    "https://www.dbengroup.com/storage/house-8-410x270.webp": {
+      "path": "/media/3c76af54215e20.webp",
+      "type": "image/webp",
+      "size": 18788
+    },
+    "https://www.dbengroup.com/storage/breadcrumb-background-img-4-2.png": {
+      "path": "/media/803f5412687ea0.webp",
+      "type": "image/webp",
+      "size": 5482
+    },
+    "https://www.dbengroup.com/storage/0667c4fd-7c30-483b-aced-79f0c5ba15ab-410x270.jpeg": {
+      "path": "/media/5eb9fc76a0e8bf.webp",
+      "type": "image/webp",
+      "size": 14886
+    },
+    "https://www.dbengroup.com/storage/08daaecd-7f77-404a-a9a7-48ebcff30b6a-410x270.jpeg": {
+      "path": "/media/df8cb2ee1b0e4e.webp",
+      "type": "image/webp",
+      "size": 26582
+    },
+    "https://www.dbengroup.com/storage/63e37281-7ae5-4447-a2a2-7e12dcf0bd28-410x270.jpeg": {
+      "path": "/media/50e1dec6ab951b.webp",
+      "type": "image/webp",
+      "size": 14104
+    },
+    "https://www.dbengroup.com/storage/dc29f6ce-d8a9-4226-b98c-6e3e78b6993c-410x270.jpeg": {
+      "path": "/media/baf16fd18297c0.webp",
+      "type": "image/webp",
+      "size": 19304
+    },
+    "https://www.dbengroup.com/storage/1f8c912b-41cf-4211-bb15-5b85bc7d1f9b-410x270.jpeg": {
+      "path": "/media/963adb43060729.webp",
+      "type": "image/webp",
+      "size": 22068
+    },
+    "https://www.dbengroup.com/storage/554bd124-68bc-43bb-9e89-43927e1e776f-1.jpeg": {
+      "path": "/media/1868896246f835.webp",
+      "type": "image/webp",
+      "size": 104564
+    },
+    "https://www.dbengroup.com/storage/9dd67f7b-d817-42a4-a1dd-dc834a4e7508-1-2.jpeg": {
+      "path": "/media/24699b2f142196.webp",
+      "type": "image/webp",
+      "size": 29346
+    },
+    "https://www.dbengroup.com/storage/0fa96c67-436e-4750-a1e5-8b97a7313d07.jpeg": {
+      "path": "/media/1d2ad170883b77.webp",
+      "type": "image/webp",
+      "size": 16276
+    },
+    "https://www.dbengroup.com/storage/d5b89888-e36d-4855-b0c8-d2d3d28d956a.jpeg": {
+      "path": "/media/5ba8f59374932f.webp",
+      "type": "image/webp",
+      "size": 14692
+    },
+    "https://www.dbengroup.com/storage/20fa420e-4aed-49f0-b510-f1eec9452110-1-1.jpeg": {
+      "path": "/media/3a75a348ff6edd.webp",
+      "type": "image/webp",
+      "size": 38384
+    },
+    "https://www.dbengroup.com/storage/6f92ad2a-5f21-4269-9ab5-a63e91c9adf9-1.jpeg": {
+      "path": "/media/900af8a6485c3c.webp",
+      "type": "image/webp",
+      "size": 76284
+    },
+    "https://www.dbengroup.com/storage/e36ee591-c16d-4b33-8bd9-b0a1cb9530df-1.jpeg": {
+      "path": "/media/530a8ebb40942b.webp",
+      "type": "image/webp",
+      "size": 135812
+    },
+    "https://www.dbengroup.com/storage/house-6-150x150.webp": {
+      "path": "/media/dd647a7695efff.webp",
+      "type": "image/webp",
+      "size": 4116
+    },
+    "https://www.dbengroup.com/storage/7ae1de24-404c-4fdc-8476-dbc2e9a2bc7d.jpeg": {
+      "path": "/media/dfa3cdc49a6cff.webp",
+      "type": "image/webp",
+      "size": 50190
+    },
+    "https://www.dbengroup.com/storage/house-1.webp": {
+      "path": "/media/42d682a24f1907.webp",
+      "type": "image/webp",
+      "size": 62928
+    },
+    "https://www.dbengroup.com/storage/house-6.webp": {
+      "path": "/media/6a8459f3f20041.webp",
+      "type": "image/webp",
+      "size": 71994
+    },
+    "https://www.dbengroup.com/storage/fa02dcb7-6fbd-4c9b-bb52-278eec6049af.jpeg": {
+      "path": "/media/e7fa6349e24894.webp",
+      "type": "image/webp",
+      "size": 77336
+    },
+    "https://www.dbengroup.com/storage/0b1fc1c5-8fc1-4f06-8603-dfe5ba3f9cf5.jpeg": {
+      "path": "/media/b3655aea91f549.webp",
+      "type": "image/webp",
+      "size": 277246
+    },
+    "https://www.dbengroup.com/storage/house-4-150x150.webp": {
+      "path": "/media/52faad9b22ff4c.webp",
+      "type": "image/webp",
+      "size": 4608
+    },
+    "https://www.dbengroup.com/storage/1e00318c-018c-4900-932c-3b56aabd6f8e.jpeg": {
+      "path": "/media/5641654e2bbfa1.webp",
+      "type": "image/webp",
+      "size": 80680
+    },
+    "https://www.dbengroup.com/storage/563165a0-e406-45f6-b7db-809a62b41f8e.jpeg": {
+      "path": "/media/f234e00a4c1f8c.webp",
+      "type": "image/webp",
+      "size": 99028
+    },
+    "https://www.dbengroup.com/storage/house-1-150x150.webp": {
+      "path": "/media/5fb402c2340cea.webp",
+      "type": "image/webp",
+      "size": 5006
+    },
+    "https://www.dbengroup.com/storage/house-4.webp": {
+      "path": "/media/9b97ce4c8b6f22.webp",
+      "type": "image/webp",
+      "size": 63416
+    },
+    "https://www.dbengroup.com/storage/house33.webp": {
+      "path": "/media/cb2b1a4959a746.webp",
+      "type": "image/webp",
+      "size": 133588
+    },
+    "https://www.dbengroup.com/storage/house33-150x150.webp": {
+      "path": "/media/171492b935a585.webp",
+      "type": "image/webp",
+      "size": 4848
+    },
+    "https://www.dbengroup.com/storage/0667c4fd-7c30-483b-aced-79f0c5ba15ab.jpeg": {
+      "path": "/media/85549f8d209b4e.webp",
+      "type": "image/webp",
+      "size": 76564
+    },
+    "https://www.dbengroup.com/storage/bd57ab14-6533-4563-8928-30fea2c56190.jpeg": {
+      "path": "/media/0ea4efc3591650.webp",
+      "type": "image/webp",
+      "size": 96920
+    },
+    "https://www.dbengroup.com/storage/house-91.webp": {
+      "path": "/media/cb28a515ab00c1.webp",
+      "type": "image/webp",
+      "size": 118174
+    },
+    "https://www.dbengroup.com/storage/house31.webp": {
+      "path": "/media/d12e0f61171f06.webp",
+      "type": "image/webp",
+      "size": 107876
+    },
+    "https://www.dbengroup.com/storage/house-9.webp": {
+      "path": "/media/c081869bcc465c.webp",
+      "type": "image/webp",
+      "size": 101644
+    },
+    "https://www.dbengroup.com/storage/0667c4fd-7c30-483b-aced-79f0c5ba15ab-150x150.jpeg": {
+      "path": "/media/a0cd918d18aa7d.webp",
+      "type": "image/webp",
+      "size": 5232
+    },
+    "https://www.dbengroup.com/storage/house-8-150x150.webp": {
+      "path": "/media/edb251f9fdde31.webp",
+      "type": "image/webp",
+      "size": 4666
+    },
+    "https://www.dbengroup.com/storage/45fe7dd1-ed75-4a47-918a-e55a8af35cda.jpeg": {
+      "path": "/media/50b493138f699e.webp",
+      "type": "image/webp",
+      "size": 80560
+    },
+    "https://www.dbengroup.com/storage/ee5fb1db-8f36-4f86-91d5-f07de850489f.jpeg": {
+      "path": "/media/cd35ee1ace2491.webp",
+      "type": "image/webp",
+      "size": 97276
+    },
+    "https://www.dbengroup.com/storage/house-7.webp": {
+      "path": "/media/d63e22351cdad5.webp",
+      "type": "image/webp",
+      "size": 124172
+    },
+    "https://www.dbengroup.com/storage/house-8.webp": {
+      "path": "/media/82b2f94b0c8781.webp",
+      "type": "image/webp",
+      "size": 109078
+    },
+    "https://www.dbengroup.com/storage/45fe7dd1-ed75-4a47-918a-e55a8af35cda-150x150.jpeg": {
+      "path": "/media/7eb5cdd0813273.webp",
+      "type": "image/webp",
+      "size": 5756
+    },
+    "https://www.dbengroup.com/storage/08daaecd-7f77-404a-a9a7-48ebcff30b6a-150x150.jpeg": {
+      "path": "/media/b25ead4203233c.webp",
+      "type": "image/webp",
+      "size": 8390
+    },
+    "https://www.dbengroup.com/storage/house-3.webp": {
+      "path": "/media/80717331e68ab9.webp",
+      "type": "image/webp",
+      "size": 113378
+    },
+    "https://www.dbengroup.com/storage/08daaecd-7f77-404a-a9a7-48ebcff30b6a.jpeg": {
+      "path": "/media/95cb2f7e8be58b.webp",
+      "type": "image/webp",
+      "size": 112432
+    },
+    "https://www.dbengroup.com/storage/house-32.webp": {
+      "path": "/media/e1c02862f5b7e6.webp",
+      "type": "image/webp",
+      "size": 107876
+    },
+    "https://www.dbengroup.com/storage/dc29f6ce-d8a9-4226-b98c-6e3e78b6993c.jpeg": {
+      "path": "/media/09c04068c21112.webp",
+      "type": "image/webp",
+      "size": 94052
+    },
+    "https://www.dbengroup.com/storage/1f8c912b-41cf-4211-bb15-5b85bc7d1f9b-150x150.jpeg": {
+      "path": "/media/e7d8c1b09e016a.webp",
+      "type": "image/webp",
+      "size": 6746
+    },
+    "https://www.dbengroup.com/storage/63e37281-7ae5-4447-a2a2-7e12dcf0bd28-150x150.jpeg": {
+      "path": "/media/24bc6ac14bbc3c.webp",
+      "type": "image/webp",
+      "size": 5510
+    },
+    "https://www.dbengroup.com/storage/dc29f6ce-d8a9-4226-b98c-6e3e78b6993c-150x150.jpeg": {
+      "path": "/media/b4b93220442aff.webp",
+      "type": "image/webp",
+      "size": 6662
+    },
+    "https://www.dbengroup.com/storage/63e37281-7ae5-4447-a2a2-7e12dcf0bd28.jpeg": {
+      "path": "/media/5596f0e1590c9a.webp",
+      "type": "image/webp",
+      "size": 100994
+    },
+    "https://www.dbengroup.com/storage/1f8c912b-41cf-4211-bb15-5b85bc7d1f9b.jpeg": {
+      "path": "/media/d8fe4fb2767c23.webp",
+      "type": "image/webp",
+      "size": 114240
+    },
+    "https://www.dbengroup.com/storage/house-10.webp": {
+      "path": "/media/726a1c63b0b4a6.webp",
+      "type": "image/webp",
+      "size": 118858
+    },
+    "https://www.dbengroup.com/storage/89a6f2cd-4ab9-4813-b8c9-7d2eff4e1aab-150x150.jpeg": {
+      "path": "/media/e80cc71b378331.webp",
+      "type": "image/webp",
+      "size": 3176
+    },
+    "https://www.dbengroup.com/storage/45b91b32-b12a-418b-9b7b-37530683903e-150x150.jpeg": {
+      "path": "/media/442cf641e8ff1a.webp",
+      "type": "image/webp",
+      "size": 3098
+    },
+    "https://www.dbengroup.com/storage/logo2-1.jpg": {
+      "path": "/media/1e4a7dd826b4d7.webp",
+      "type": "image/webp",
+      "size": 2790
+    },
+    "https://www.dbengroup.com/storage/site-under-maintenance.jpg": {
+      "path": "/media/f4268199668cc5.webp",
+      "type": "image/webp",
+      "size": 14262
+    },
+    "https://www.dbengroup.com/storage/07d61ec0-e182-4a4e-a7d4-cdc1389fd95d.jpeg": {
+      "path": "/media/b38ca44b561d2f.webp",
+      "type": "image/webp",
+      "size": 16938
+    },
+    "https://www.dbengroup.com/storage/2c16ba42-d767-4c25-913c-19486fc591ff.jpeg": {
+      "path": "/media/5cef37b9ded8fd.webp",
+      "type": "image/webp",
+      "size": 99028
+    },
+    "https://www.dbengroup.com/storage/a44a71f2-b6b2-4a87-9361-5c9b74689b5b-150x150.jpeg": {
+      "path": "/media/d89de756be730b.webp",
+      "type": "image/webp",
+      "size": 5492
+    },
+    "https://www.dbengroup.com/storage/45b91b32-b12a-418b-9b7b-37530683903e.jpeg": {
+      "path": "/media/eb76268749c517.webp",
+      "type": "image/webp",
+      "size": 36324
+    },
+    "https://www.dbengroup.com/storage/a44a71f2-b6b2-4a87-9361-5c9b74689b5b.jpeg": {
+      "path": "/media/74d25fcc65b7e9.webp",
+      "type": "image/webp",
+      "size": 109658
+    },
+    "https://www.dbengroup.com/storage/89a6f2cd-4ab9-4813-b8c9-7d2eff4e1aab.jpeg": {
+      "path": "/media/8d5ffbe6752ac6.webp",
+      "type": "image/webp",
+      "size": 31822
+    }
+  },
+  "issues": []
+}
